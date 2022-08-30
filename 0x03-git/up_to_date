@@ -1,1 +1,1 @@
-ci -l
+git pull
